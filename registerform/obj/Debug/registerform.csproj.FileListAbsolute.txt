@@ -1,0 +1,5 @@
+c:\users\good day\documents\visual studio 2010\Projects\registerform\registerform\bin\registerform.dll
+c:\users\good day\documents\visual studio 2010\Projects\registerform\registerform\bin\registerform.pdb
+c:\users\good day\documents\visual studio 2010\Projects\registerform\registerform\obj\Debug\registerform.dll
+c:\users\good day\documents\visual studio 2010\Projects\registerform\registerform\obj\Debug\registerform.pdb
+C:\Users\Good Day\documents\visual studio 2010\Projects\registerform\registerform\obj\Debug\registerform.csprojResolveAssemblyReference.cache
